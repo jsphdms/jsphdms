@@ -1,4 +1,17 @@
 {% extends "layout.html" %}
 {% block content %}
 	<h1>Hi there</h1>
+	{% for post in posts %}
+	<div class="row">
+		<div class="col-sm">
+			<p><strong>{{post.date_posted}}</strong></p>
+		</div>
+		<div class="col-sm">
+			<p>{{post.title}}</p>
+		</div>
+		<div class="col-sm">
+		</div>
+
+	</div>
+	{% endfor %}
 {% endblock content %}
