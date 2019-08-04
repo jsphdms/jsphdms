@@ -1,0 +1,21 @@
+/* Colour scheme
+ * Dark grey: #1f252a
+ * Light grey: #bab5a4
+ * Dark slate: #415365 
+ * Sienna: #965c2a
+ * Dim grey: #6e665f*/
+
+body {
+  background: #1f252a;
+  color: #bab5a4;
+}
+
+a:link {
+  color: #415365
+}
+
+a:hover {
+  color: #965c2a;
+  background-color: transparent;
+  text-decoration: none;
+}

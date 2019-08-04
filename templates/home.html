@@ -1,9 +1,11 @@
 {% extends "layout.html" %}
 {% block content %}
-	<h1>Hi there</h1>
+	<h1>Hi</h1>
+	<p>I'm Joe and this is a collection of posts for my own learning. It's primarily for me; but writing publicly is extra motivation to explain things clearly.</p>
+	<p>My main programming language is R and I've played with Python and JavaScript. I've been using Ubuntu for a few years and getting more familiar with the terminal. Recently I've been experimenting with Vim.</p>
+	<p>I have an interest in data visualisation and reproducible analysis.</p>
 	{% for post in posts %}
-	<div class="row">
-		<div class="col-sm">
+	<div class="row"> <div class="col-sm">
 			<p><strong>{{post.date_posted}}</strong></p>
 		</div>
 		<div class="col-sm">
