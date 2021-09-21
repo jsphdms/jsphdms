@@ -1,4 +1,4 @@
-Read [about me](./about.html) or browse some posts:
+Read [about me](./about) or browse some posts:
 
 <ul>
   {% for post in site.posts %}
