@@ -1,4 +1,2 @@
-header_pages:
-  - about.md
-  - about.md
+show_downloads: false
 theme: jekyll-theme-hacker
