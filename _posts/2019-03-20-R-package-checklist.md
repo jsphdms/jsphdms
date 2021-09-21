@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Checklist for creating an R package"
-date: 2021-09-21 21:00:00 -0000
+date: 2019-03-20 21:00:00 -0000
 categories: R
 tags: checklist
 ---
