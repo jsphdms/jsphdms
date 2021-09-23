@@ -19,6 +19,6 @@ categories: recipe
 | nutritional yeast   | 1 tablespoon      |
 | white miso paste    | 1 tablespoon      |
 
-- simmer onion and garlic in tomatoes 5 mins
-- add all other ingredients
-- stir occasionally 15 mins
+1. simmer onion and garlic in tomatoes 5 mins
+1. add all other ingredients
+1. stir occasionally 15 mins
