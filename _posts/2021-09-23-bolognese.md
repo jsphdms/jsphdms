@@ -12,7 +12,7 @@ categories: recipe
 | garlic minced       | 2 tablespoons     |
 | lentils cooked      | 2 tablespoons     |
 | mushrooms sliced    | 0.5 teaspoons     |
-| tomatoe puree       | 1 tablespoon      |
+| tomato puree        | 1 tablespoon      |
 | basil               | 1 tablespoon      |
 | oregano             | 1 tablespoon      |
 | chilli flakes       | 1 tablespoon      |
